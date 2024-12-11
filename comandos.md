@@ -35,12 +35,12 @@ records = cur.fetchall()
 # Finally, you may print the output to the console or use it anyway you like
 print(records)
 ```
-\begin{table}[]
-\begin{tabular}{lll}
-comando de git & Descripcion                                    & Ejemplo  \\
-git init       & creacion de un repositorio                     & git init \\
-git pull       & obtencion de la ultima version del repositorio & asd     
-\end{tabular}
-\end{table}
++----------------+------------------------------------------------+----------+
+| comando de git | Descripcion                                    | Ejemplo  |
++----------------+------------------------------------------------+----------+
+| git init       | creacion de un repositorio                     | git init |
++----------------+------------------------------------------------+----------+
+| git pull       | obtencion de la ultima version del repositorio | asd      |
++----------------+------------------------------------------------+----------+
 
 
