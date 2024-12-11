@@ -35,4 +35,12 @@ records = cur.fetchall()
 # Finally, you may print the output to the console or use it anyway you like
 print(records)
 ```
-<img src="[https://images.app.goo.gl/EWNefeKeG39M6uo88](https://images.app.goo.gl/hfepnW2vy9hH8VQ39)">
+\begin{table}[]
+\begin{tabular}{lll}
+comando de git & Descripcion                                    & Ejemplo  \\
+git init       & creacion de un repositorio                     & git init \\
+git pull       & obtencion de la ultima version del repositorio & asd     
+\end{tabular}
+\end{table}
+
+
