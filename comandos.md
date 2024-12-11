@@ -35,3 +35,4 @@ records = cur.fetchall()
 # Finally, you may print the output to the console or use it anyway you like
 print(records)
 ```
+<img src="https://images.app.goo.gl/EWNefeKeG39M6uo88">
